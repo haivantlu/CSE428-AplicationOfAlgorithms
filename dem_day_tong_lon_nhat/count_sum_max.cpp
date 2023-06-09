@@ -1,4 +1,4 @@
-//dem day co tong lon nhat 
+//nhap vao 2 day ,in day con chung co tong lon nhat 
 
 #include <iostream>
 using namespace std;
